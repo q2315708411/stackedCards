@@ -1,0 +1,2 @@
+# stackedCards
+stackedCards是一款js堆叠卡片轮播图插件。该插件可以制作出类似卡片堆叠的轮播图效果。
